@@ -1,0 +1,64 @@
+"","infected","total_population","infected_proportion","size_category","liner","ship","voyage_duration","start_date","end_date","start_year","end_year","start_month","end_month","start_season","end_season","Start_dest","End_dest","Start_lat","Start_long"
+"1",172,4169,0.0412568961381626,"5","Princess Cruises","Crown Princess",29,2014-10-18,2014-11-16,2014,2014,10,11,"3","4","Los Angeles","California",33.7405,-118.2786
+"2",152,4337,0.0350472676965644,"5","Princess Cruises","Crown Princess",7,2014-04-05,2014-04-12,2014,2014,4,4,"1","1","Los Angeles","California",33.7405,-118.2786
+"3",105,2928,0.0358606557377049,"4","Royal Caribbean Cruise Line","Grandeur of the Seas",7,2014-04-05,2014-04-12,2014,2014,4,4,"1","1","Baltimore","Bahamas",39.2876,-76.6108
+"4",117,2912,0.0401785714285714,"4","Royal Caribbean Cruise Line","Grandeur of the Seas",8,2014-03-28,2014-04-05,2014,2014,3,4,"1","1","Baltimore","Bahamas",39.2876,-76.6108
+"5",73,1665,0.0438438438438438,"3","Holland America Line","ms Maasdam",26,2014-03-02,2014-03-28,2014,2014,3,3,"1","1","Rio de Janeiro","Fort Lauderdale",-22.8955,-43.1822
+"6",124,1848,0.0670995670995671,"3","Holland America Line","ms Veendam",14,2014-02-08,2014-02-22,2014,2014,2,2,"1","1","San Diego","Fort Lauderdale",32.7157,-117.1611
+"7",192,4250,0.0451764705882353,"5","Princess Cruises","Caribbean Princess",7,2014-01-25,2014-02-01,2014,2014,1,2,"1","1","Houston TX","Caribbean",29.7499,-95.3594
+"8",689,4237,0.162615057823932,"5","Royal Caribbean Cruise Line","Explorer of the Seas",10,2014-01-21,2014-01-31,2014,2014,1,1,"1","1","NYC (Cape Liberty/Bayonne NJ)","Caribbean",40.6687,-74.1118
+"9",142,3357,0.042299672326482,"4","Norwegian Cruise Line","Norwegian Star",14,2014-01-05,2014-01-19,2014,2014,1,1,"1","1","LA","Mexican Riviera",33.7405,-118.2786
+"10",84,2017,0.0416460089241448,"3","Holland America Line","Veendam",7,2015-12-20,2015-12-27,2015,2015,12,12,"4","4","San Diego","San Diego",32.7157,-117.1611
+"11",176,4393,0.0400637377646255,"5","Princess Cruises","Caribbean Princess",7,2015-12-13,2015-12-20,2015,2015,12,12,"4","4","Houston Texas","Houston Texas",29.7499,-95.3594
+"12",86,1936,0.0444214876033058,"3","Oceania Cruises","Oceania Riviera",14,2015-11-18,2015-12-02,2015,2015,11,12,"4","4","Barcelona","Miami FL",41.3809,2.1228
+"13",151,3681,0.0410214615593589,"5","Princess Cruises","Star Princess",15,2015-04-29,2015-05-14,2015,2015,4,5,"1","2","San Francisco","Hawaii",37.7749,-122.4194
+"14",80,1954,0.0409416581371546,"3","Oceania Cruises","Oceania Marina",16,2015-04-21,2015-05-07,2015,2015,4,5,"1","2","Callao Peru","New York City",-12.056,-77.1183
+"15",79,1716,0.046037296037296,"3","Holland America Line","ms Maasdam",14,2015-04-17,2015-05-01,2015,2015,4,5,"1","2","Fort Lauderdale","Caribbean",26.1224,-80.1373
+"16",111,2839,0.039098274040155,"4","Princess Cruises","Coral Princess",15,2015-04-12,2015-04-27,2015,2015,4,4,"1","1","Fort Lauderdale","Los Angeles",26.1224,-80.1373
+"17",142,2494,0.0569366479550922,"3","Royal Caribbean Cruise Line","Legend of the Seas",15,2015-03-30,2015-04-14,2015,2015,3,4,"1","1","Fort Lauderdale","San Diego",26.1224,-80.1373
+"18",112,3081,0.0363518338201883,"4","Celebrity Cruises","Celebrity Infinity",15,2015-03-29,2015-04-13,2015,2015,3,4,"1","1","Fort Lauderdale","San Diego",26.1224,-80.1373
+"19",150,4105,0.0365408038976857,"5","Celebrity Cruises","Celebrity Equinox",10,2015-02-13,2015-02-23,2015,2015,2,2,"1","1","Fort Lauderdale","Caribbean",26.1224,-80.1373
+"20",207,2734,0.0757132406730066,"4","Royal Caribbean Cruise Line","Grandeur of the Seas",10,2015-01-24,2015-02-03,2015,2015,1,2,"1","1","Baltimore","Florida and Bahamas",39.2876,-76.6108
+"21",112,2639,0.0424403183023873,"4","Holland America Line","Oosterdam",15,2016-11-03,2016-11-18,2016,2016,11,11,"4","4","Rome-Civitavecchia","Tampa Florida",42.0932,11.7967
+"22",25,1056,0.0236742424242424,"2","P&O Cruises","Adonia",7,2016-10-16,2016-10-23,2016,2016,10,10,"3","3","Miami","Cuba",25.7617,-80.1918
+"23",145,3671,0.0394987741759738,"5","Disney Cruise Line","Disney Wonder",4,2016-04-27,2016-05-01,2016,2016,4,5,"1","2","Miami","Bahamas",25.7617,-80.1918
+"24",286,1435,0.199303135888502,"2","Fred Olsen Cruises","Balmoral",34,2016-04-16,2016-05-20,2016,2016,4,5,"1","2","Southampton (England UK)","Southampton (England UK)",50.9097,-1.4044
+"25",104,1980,0.0525252525252525,"3","Oceania Cruises","Oceania Riviera",13,2016-03-20,2016-04-02,2016,2016,3,4,"1","1","Miami","Caribbean",25.7617,-80.1918
+"26",135,3982,0.0339025615268709,"5","Norwegian Cruise Line","Norwegian Gem",10,2016-03-12,2016-03-22,2016,2016,3,3,"1","1","NYC","Caribbean",40.7128,-74.006
+"27",37,754,0.0490716180371353,"1","Silversea Cruises","Silver Spirit",18,2016-03-03,2016-03-21,2016,2016,3,3,"1","1","Valparaiso-Santiago","Fort Lauderdale",-33.0472,-71.6127
+"28",178,4143,0.0429640357229061,"5","Carnival Cruise Line","Carnival Sunshine",13,2016-02-21,2016-03-05,2016,2016,2,3,"1","1","Port Canaveral","Caribbean",28.3922,-80.6188
+"29",148,5653,0.0261807889616133,"5","Royal Caribbean Cruise Line","Anthem of the Seas",12,2016-02-21,2016-03-04,2016,2016,2,3,"1","1","Cape Liberty (New Jersey, NYC)","Caribbean",40.6687,-74.1118
+"30",70,988,0.0708502024291498,"2","Princess Cruises","Ocean Princess",23,2016-02-13,2016-03-07,2016,2016,2,3,"1","1","Valparaiso","Miami",-33.0472,-71.6127
+"31",127,1998,0.0635635635635636,"3","Oceania Cruises","Oceania Riviera",10,2016-02-12,2016-02-22,2016,2016,2,2,"1","1","Miami","Miami",25.7617,-80.1918
+"32",33,1819,0.0181418361737218,"3","Oceania Cruises","Oceania Riviera",10,2016-02-02,2016-02-12,2016,2016,2,2,"1","1","Miami","Miami",25.7617,-80.1918
+"33",204,4228,0.0482497634815516,"5","Princess Cruises","Crown Princess",10,2016-01-08,2016-01-18,2016,2016,1,1,"1","1","Los Angeles","Los Angeles",33.7405,-118.2786
+"34",332,5558,0.0597337171644476,"5","Royal Caribbean","Independence of the Seas",5,2017-12-11,2017-12-16,2017,2017,12,12,"4","4","Fort Lauderdale","Caribbean",26.1224,-80.1373
+"35",176,4274,0.0411792232101076,"5","Celebrity Cruises","Celebrity Reflection",10,2017-11-17,2017-11-27,2017,2017,11,11,"4","4","Fort Lauderdale","Caribbean",26.1224,-80.1373
+"36",196,4130,0.0474576271186441,"5","Princess Cruises","Crown Princess",14,2017-10-25,2017-11-08,2017,2017,10,11,"3","4","Quebec City","Fort Lauderdale",46.8139,-71.2082
+"37",87,2933,0.0296624616433686,"4","Holland America Line","Noordam",7,2017-07-30,2017-08-06,2017,2017,7,8,"2","3","Vancouver","Seward",49.2827,-123.1207
+"38",77,3079,0.0250081195193245,"4","Holland America Line","Nieuw Amsterdam",7,2017-07-22,2017-07-29,2017,2017,7,7,"2","2","Seward","Vancouver",60.1042,-149.4422
+"39",173,2888,0.0599030470914127,"4","Holland America Line","Noordam",7,2017-07-23,2017-07-30,2017,2017,7,7,"2","2","Vancouver","Alaska",49.2827,-123.1207
+"40",56,2093,0.0267558528428094,"3","Holland America Line","Volendam",7,2017-07-19,2017-07-26,2017,2017,7,7,"2","2","Vancouver","Alaska",49.2827,-123.1207
+"41",69,2090,0.0330143540669856,"3","Holland America Line","Volendam",7,2017-07-12,2017-07-19,2017,2017,7,7,"2","2","Vancouver","Alaska",49.2827,-123.1207
+"42",182,2897,0.062823610631688,"4","Princess Cruises","Coral Princess",10,2017-03-08,2017-03-18,2017,2017,3,3,"1","1","Fort Lauderdale","Fort Lauderdale",26.1224,-80.1373
+"43",33,1366,0.0241581259150805,"2","Viking Ocean Cruises","Viking Star",21,2018-12-13,2019-01-03,2018,2019,12,1,"4","1","Fort Lauderdale","Fort Lauderdale",26.1224,-80.1373
+"44",47,1285,0.0365758754863813,"2","Crystal Cruises","Crystal Symphony",24,2018-11-08,2018-12-02,2018,2018,11,12,"4","4","San Diego","Fort Lauderdale",32.7157,-117.1611
+"45",77,1884,0.0408704883227176,"3","Holland America Line","Volendam",15,2018-11-03,2018-11-18,2018,2018,11,11,"4","4","Chicago","Toronto",41.8781,-87.6298
+"46",6,265,0.0226415094339623,"1","V. Ships Leisure U.S.A.","Pearl Mist",11,2018-09-01,2018-09-12,2018,2018,9,9,"3","3","Seward AK","Vancouver BC",60.1042,-149.4422
+"47",38,1109,0.0342651036970243,"2","Regent Seven Seas Cruises","Seven Seas Mariner",10,2018-06-20,2018-06-30,2018,2018,6,6,"2","2","Seattle WA","Alaska",47.6062,-122.3321
+"48",113,2063,0.0547746000969462,"3","Holland America Line","Zaandam",14,2018-06-18,2018-07-02,2018,2018,6,7,"2","2","Tokyo","Seward AK",35.6895,139.6917
+"49",36,617,0.0583468395461912,"1","Silversea Cruises","Silver Shadow",14,2018-05-10,2018-05-24,2018,2018,5,5,"2","2","San Diego","Fort Lauderdale",32.7157,-117.1611
+"50",118,3110,0.0379421221864952,"4","Celebrity Cruises","Celebrity Infinity",15,2018-04-17,2018-05-02,2018,2018,4,5,"1","2","Valparaiso-Santiago","Fort Lauderdale",-33.0472,-71.6127
+"51",90,2866,0.0314026517794836,"4","Cunard Line","Queen Victoria",16,2018-02-21,2018-03-09,2018,2018,2,3,"1","1","Puntarenas Costa Rica","San Diego",9.9765,-84.8384
+"52",22,1121,0.0196253345227475,"2","Azamara Club Cruises","Azamara Quest",14,2018-01-25,2018-02-08,2018,2018,1,2,"1","1","Los Angeles","Fort Lauderdale",33.7405,-118.2786
+"53",78,3079,0.0253329002923027,"4","Princess Cruises","Island Princess",15,2018-01-09,2018-01-24,2018,2018,1,1,"1","1","Miami","Los Angeles",25.7617,-80.1918
+"54",133,5371,0.0247626140383541,"5","Norwegian Cruise Line","Norwegian Joy",16,2019-11-08,2019-11-24,2019,2019,11,11,"4","4","Montreal","NYC",45.5017,-73.5673
+"55",93,2861,0.0325061167423978,"4","Aida Cruises","AIDAdiva",10,2019-10-03,2019-10-13,2019,2019,10,10,"3","3","NYC","Caribbean",40.7128,-74.006
+"56",95,2778,0.0341972642188625,"4","Aida Cruises","AIDAluna",14,2019-09-28,2019-10-12,2019,2019,9,10,"3","3","Miami","Caribbean",25.7617,-80.1918
+"57",125,2665,0.0469043151969981,"4","Aida Cruises","AIDAdiva",18,2019-09-05,2019-09-23,2019,2019,9,9,"3","3","Rostock","NYC",54.0924,12.0991
+"58",52,4399,0.0118208683791771,"5","Carnival Cruise Line","Conquest",7,2019-09-07,2019-09-14,2019,2019,9,9,"3","3","Callao-Lima","NYC",-12.056,-77.1183
+"59",40,1829,0.0218698742482231,"3","Oceania Cruises","Oceania Marina",18,2019-03-18,2019-04-05,2019,2019,3,4,"1","1","Fort Lauderdale","Panama Canal",26.1224,-80.1373
+"60",110,3098,0.0355067785668173,"4","Princess Cruises","Island Princess",10,2019-02-08,2019-02-18,2019,2019,2,2,"1","1","Miami","Cuba",25.7617,-80.1918
+"61",37,1365,0.0271062271062271,"2","Viking Ocean Cruises","Viking Star",7,2019-02-07,2019-02-14,2019,2019,2,2,"1","1","San Juan Puerto Rico","Caribbean",18.4655,-66.1057
+"62",38,1380,0.027536231884058,"2","Viking Ocean Cruises","Viking Sea",10,2019-01-18,2019-01-28,2019,2019,1,1,"1","1","Port Canaveral","Caribbean",28.3922,-80.6188
+"63",592,8454,0.0700260231842915,"5","Royal Caribbean International","Oasis of the Seas",7,2019-01-06,2019-01-13,2019,2019,1,1,"1","1","Los Angeles","Miami",33.7405,-118.2786

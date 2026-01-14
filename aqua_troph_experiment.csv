@@ -1,0 +1,49 @@
+﻿Algae,Daphnia gut,Enallagma gut,Treatment,Rep,Density_cells/mL,ng MC/Daph,No.Daphnia Eaten,MCEnall_ng/Enall,ngMC/mgTL,Trophic Level
+Microcystis,NA,NA,Microcystis,2,"1,793,532.41",NA,NA,NA,5054.8937,1
+Microcystis,NA,NA,Microcystis,3,"1,793,532.41",NA,NA,NA,4718.5152,1
+Microcystis,NA,NA,Microcystis,4,"1,460,076.92",NA,NA,NA,43923.8717,1
+Microcystis,NA,NA,Microcystis,5,"1,460,076.92",NA,NA,NA,43131.4307,1
+Microcystis,Clear,NA,Daphnia Clear Guts,2,"55,572.00",0.174,NA,NA,3.7021,2
+Microcystis,Clear,NA,Daphnia Clear Guts,3,"55,572.00",0.228,NA,NA,4.8511,2
+Microcystis,Clear,NA,Daphnia Clear Guts,4,"55,570.00",0.404,NA,NA,8.5957,2
+Microcystis,Clear,NA,Daphnia Clear Guts,5,"55,570.00",0.378,NA,NA,8.0426,2
+Microcystis,Full,NA,Daphnia Full Guts,2,"55,572.00",0.212,NA,NA,4.5106,2
+Microcystis,Full,NA,Daphnia Full Guts,3,"55,572.00",0.426,NA,NA,9.0638,2
+Microcystis,Full,NA,Daphnia Full Guts,4,"55,570.00",0.704,NA,NA,14.9787,2
+Microcystis,Full,NA,Daphnia Full Guts,5,"55,570.00",0.562,NA,NA,11.9574,2
+Microcystis,Clear,Clear,Daphnia Clear Gut Predator Clear Gut,2,"55,572.00",NA,4,0.41,0.1783,3
+Microcystis,Clear,Clear,Daphnia Clear Gut Predator Clear Gut,3,"55,572.00",NA,3,0.28,0.1217,3
+Microcystis,Clear,Clear,Daphnia Clear Gut Predator Clear Gut,4,"55,570.00",NA,5,0.31,0.1348,3
+Microcystis,Clear,Clear,Daphnia Clear Gut Predator Clear Gut,5,"55,570.00",NA,5,0.28,0.1217,3
+Microcystis,Full,Clear,Daphnia Full Gut Predator Clear Gut,2,"55,572.00",NA,3.5,0.13,0.0565,3
+Microcystis,Full,Clear,Daphnia Full Gut Predator Clear Gut,3,"55,572.00",NA,3,0.13,0.0565,3
+Microcystis,Full,Clear,Daphnia Full Gut Predator Clear Gut,4,"55,570.00",NA,5,0.45,0.1957,3
+Microcystis,Full,Clear,Daphnia Full Gut Predator Clear Gut,5,"55,570.00",NA,5,1.11,0.4826,3
+Microcystis,Full,Full,Daphnia Full Gut Predator Full Gut,2,"55,572.00",NA,1,0.13,0.0565,3
+Microcystis,Full,Full,Daphnia Full Gut Predator Full Gut,3,"55,572.00",NA,4,1.69,0.7348,3
+Microcystis,Full,Full,Daphnia Full Gut Predator Full Gut,4,"55,570.00",NA,5,1.13,0.4913,3
+Microcystis,Full,Full,Daphnia Full Gut Predator Full Gut,5,"55,570.00",NA,5,0.99,0.4304,3
+Scenedesmus,NA,NA,Scenedesmus,2,NA,NA,NA,BDL,BDL,1
+Scenedesmus,NA,NA,Scenedesmus,3,NA,NA,NA,BDL,BDL,1
+Scenedesmus,NA,NA,Scenedesmus,4,NA,NA,NA,BDL,BDL,1
+Scenedesmus,NA,NA,Scenedesmus,5,NA,NA,NA,BDL,BDL,1
+Scenedesmus,Clear,NA,NT Daphnia Clear Guts,2,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Clear,NA,NT Daphnia Clear Guts,3,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Clear,NA,NT Daphnia Clear Guts,4,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Clear,NA,NT Daphnia Clear Guts,5,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Full,NA,NT Daphnia Full Guts,2,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Full,NA,NT Daphnia Full Guts,3,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Full,NA,NT Daphnia Full Guts,4,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Full,NA,NT Daphnia Full Guts,5,NA,BDL,NA,BDL,BDL,2
+Scenedesmus,Clear,Clear,NT Daphnia Clear Gut Predator Clear Gut,2,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Clear,Clear,NT Daphnia Clear Gut Predator Clear Gut,3,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Clear,Clear,NT Daphnia Clear Gut Predator Clear Gut,4,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Clear,Clear,NT Daphnia Clear Gut Predator Clear Gut,5,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Clear,NT Daphnia Full Gut Predator Clear Gut,2,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Clear,NT Daphnia Full Gut Predator Clear Gut,3,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Clear,NT Daphnia Full Gut Predator Clear Gut,4,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Clear,NT Daphnia Full Gut Predator Clear Gut,5,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Full,NT Daphnia Full Gut Predator Full Gut,2,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Full,NT Daphnia Full Gut Predator Full Gut,3,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Full,NT Daphnia Full Gut Predator Full Gut,4,NA,BDL,NA,BDL,BDL,3
+Scenedesmus,Full,Full,NT Daphnia Full Gut Predator Full Gut,5,NA,BDL,NA,BDL,BDL,3
